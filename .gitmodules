@@ -13,12 +13,12 @@
 [submodule "SVTAS"]
 	path = SVTAS
 	url = https://github.com/Thinksky5124/SVTAS.git
-[submodule "MeCoQ"]
-	path = Quantization/MeCoQ
-	url = https://github.com/gimpong/AAAI22-MeCoQ.git
-[submodule "SPQ"]
-	path = Quantization/SPQ
-	url = https://github.com/youngkyunJang/SPQ.git
-[submodule "SPQ"]
+[submodule "Quantization/SSQL"]
 	path = Quantization/SSQL
 	url = https://github.com/megvii-research/SSQL-ECCV2022.git
+[submodule "Quantization/SPQ"]
+	path = Quantization/SPQ
+	url = https://github.com/youngkyunJang/SPQ.git
+[submodule "Quantization/AAAI22-MeCoQ"]
+	path = Quantization/AAAI22-MeCoQ
+	url = https://github.com/gimpong/AAAI22-MeCoQ.git
