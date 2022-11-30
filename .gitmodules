@@ -13,8 +13,8 @@
 [submodule "SVTAS"]
 	path = SVTAS
 	url = https://github.com/Thinksky5124/SVTAS.git
-[submodule "Quantization/SSQL"]
-	path = Quantization/SSQL
+[submodule "Quantization/SSQL-ECCV2022"]
+	path = Quantization/SSQL-ECCV2022
 	url = https://github.com/megvii-research/SSQL-ECCV2022.git
 [submodule "Quantization/SPQ"]
 	path = Quantization/SPQ
