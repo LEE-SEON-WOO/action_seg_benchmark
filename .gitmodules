@@ -1,0 +1,15 @@
+[submodule "CDFL"]
+	path = CDFL
+	url = ./CDFL/
+[submodule "DTGRM"]
+	path = DTGRM
+	url = ./DTGRM/
+[submodule "MorphMLP"]
+	path = MorphMLP
+	url = ./MorphMLP/
+[submodule "SSTDA"]
+	path = SSTDA
+	url = ./SSTDA/
+[submodule "SVTAS"]
+	path = SVTAS
+	url = ./SVTAS/
