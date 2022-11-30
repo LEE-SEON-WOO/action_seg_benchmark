@@ -1,15 +1,15 @@
 [submodule "CDFL"]
 	path = CDFL
-	url = ./CDFL/
+	url = https://github.com/JunLi-Galios/CDFL.git
 [submodule "DTGRM"]
 	path = DTGRM
-	url = ./DTGRM/
+	url = https://github.com/redwang/DTGRM.git
 [submodule "MorphMLP"]
 	path = MorphMLP
-	url = ./MorphMLP/
+	url = https://github.com/MTLab/MorphMLP.git
 [submodule "SSTDA"]
 	path = SSTDA
-	url = ./SSTDA/
+	url = https://github.com/cmhungsteve/SSTDA.git
 [submodule "SVTAS"]
 	path = SVTAS
-	url = ./SVTAS/
+	url = https://github.com/Thinksky5124/SVTAS.git
